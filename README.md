@@ -10,3 +10,4 @@ and how each change is saved with a short note explaining what changed.
 ## Files
 
 - `README.md` - this page. GitHub shows it on the front page of the project.
+- `TODO.md` - a simple checklist of things I want to do.
